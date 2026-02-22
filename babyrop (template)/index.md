@@ -3,4 +3,4 @@
 
 Ini intro.
 
-![stack](./stack.jpg)
+![stack](stack.jpg)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ret2win/index.md",
+                "file": "All In/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "25d4cb03d99ea4b0",
+            "id": "b5a27dfc27120058",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Amano-Iwato/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ce9ea6973078f2aa",
@@ -207,15 +209,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25d4cb03d99ea4b0",
+  "active": "b5a27dfc27120058",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ret2win/index.md",
-    "babyrop/index.md",
-    "Untitled",
-    "ret2win",
-    "babyrop/stack.jpg",
+    "Amano-Iwato/decompiled.png",
+    "Amano-Iwato/fileres.png",
+    "Amano-Iwato/index.md",
+    "Amano-Iwato/result.png",
+    "babyrop (template)/index.md",
+    "babyrop (template)/stack.jpg",
+    "All In/index.md",
+    "Amano-Iwato",
+    "All In/stack.jpg",
+    "All In",
+    "All in/stack.jpg",
+    "All in/index.md",
+    "All in",
     "README.md",
-    "babyrop"
+    "ret2win/index.md",
+    "Untitled 1",
+    "Untitled.md",
+    "ret2win",
+    "babyrop (template)"
   ]
 }
