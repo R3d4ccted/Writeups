@@ -3,9 +3,9 @@
 
 # Early Analysis
 We are given a binary. Let's try to check information it's have using `file` command
-![[fileres.png]]
+![fileres](fileres.png)
 Its not stripped and dynamically linked. Let's try to use IDA to decompile this binary since its not stripped it will easy to analyze
-![[decompiled.png]]
+![decompile](decompiled.png)
 Alright, we got the decompiled code. Intuitively, We can get the idea the `main` will ask for input. Check that input and if its "correct", then it will decrypt the flags.
 
 For now, let's jump on that `check` function
@@ -252,4 +252,4 @@ io.sendline(result.encode())
 io.interactive()
 ```
 # Result
-![[result.png]]
+![result](result.png)
